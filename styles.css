@@ -1,0 +1,60 @@
+body {
+  text-align: center;
+  background-color: #AEC2B6;
+}
+
+
+.title {
+  font-family: 'Anton', sans-serif;
+  font-size: 7rem;
+  color: #66347F;
+  font-weight: lighter;
+  margin-top: 50px;
+}
+
+.click {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+h2 {
+  font-family: 'Sacramento', cursive;
+  font-weight: bold;
+font-size: 2rem;
+}
+
+.dice1{
+  display: inline;
+  position: absolute;
+  right: 55%;
+  
+}
+
+.dice2 {
+position: absolute;
+left: 55%;
+
+}
+
+.footer {
+position: relative;
+top: 375px;
+padding-bottom: 50px;
+}
+
+img {
+  height:200px;
+  width: 200px;
+}
+
+
+.btn {
+  visibility:hidden;
+  position: relative;
+  top: 250px;
+  background-color: #66347F;
+  color: white;
+  cursor: pointer;
+  border: none;
+  padding: 5px;
+}
