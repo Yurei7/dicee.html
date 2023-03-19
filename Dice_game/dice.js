@@ -35,4 +35,9 @@ function diceGame() {
 
 }
 
+function connectWallet() {
+    window.solana.connect
+    window.solana.request({method:"connect"})
+    
+    }
 
